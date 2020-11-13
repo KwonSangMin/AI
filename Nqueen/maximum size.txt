@@ -1,0 +1,5 @@
+Nqueen_Backtracking Algorithm
+- Maximum size : 420x420
+
+Nqueen_minconflict Algorithm
+- Maximum size : 1100x1100
